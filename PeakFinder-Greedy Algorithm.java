@@ -1,5 +1,5 @@
 //linda türkmen
-//The program that finds Peak using the Greedy Algorithm  
+//this program finds Peak using Greedy Algorithm
 
 import java.util.Random;
 
