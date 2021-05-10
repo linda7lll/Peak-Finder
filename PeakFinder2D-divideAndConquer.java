@@ -1,5 +1,5 @@
 //linda türkmen
-//The program that finds Peak using the Divide and Conquer Algorithm-2D
+//this program finds Peak using Divide and Conquer Algorithm-2D
 
 import java.util.Random;
 public class PeakFinder {
